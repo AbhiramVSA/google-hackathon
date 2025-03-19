@@ -1,5 +1,7 @@
 ### ✅ **`README.md` for Insurance Dashboard SaaS**
 
+## Team Future Roommates? @ GDGC
+
 ---
 
 # 📊 **Insurance Dashboard SaaS**
@@ -217,8 +219,11 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🚀 **Author**
-- 👤 **Abhiram Adabala**  
+## 🚀 **Authors**
+- 👤 **Abhiram Adabala**
+- 👤 **Tanishq Srivastava**
+- 👤 **Ratul Dash**
+- 👤 **Shikhar Veer**
 - 📧 [Contact](mailto:your-email@example.com)  
 - 🌐 [GitHub](https://github.com/AbhiramAdabala)  
 
